@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgowithcode.com%2Ftop-programming-languages&psig=AOvVaw2LxFFQCOkxDx0EaXCYZfht&ust=1742225360182000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDS9sX1jowDFQAAAAAdAAAAABAP) 
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmastering-different-programming-languages-ease-manish-joshi-9ztqc&psig=AOvVaw2LxFFQCOkxDx0EaXCYZfht&ust=1742225360182000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDS9sX1jowDFQAAAAAdAAAAABAV) 
 
 
 <h1 align="center">Hi 👋, I'm Kıvanç Erdem Sarıkamış</h1>
